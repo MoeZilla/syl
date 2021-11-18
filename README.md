@@ -2,7 +2,7 @@
 
 
 ```
-from sylviorus import SYL
+from sylpy import SYL
 
 fk = SYL()
 
