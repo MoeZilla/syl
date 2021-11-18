@@ -6,10 +6,10 @@ with open("README.md", "r") as fh:
 
 
 setup(
-    name="slyWrappy",
+    name="sylviorus",
     version="0.4",
     description="sylviorus API wrapper",
-    py_modules=["dependencies"],
+    py_modules=["sylviorus"],
     package_dir={'': 'sylviorus'},
     install_requires=["requests", "typing"],
     extras_require={
